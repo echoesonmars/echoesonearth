@@ -1,3 +1,3 @@
 # test
 
-[[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)](https://github.com/echoesonmars)
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,pytorch,git,github,linux,docker,postgres,sqlite,aws,gcp,html,css,js,react)](https://skillicons.dev)
